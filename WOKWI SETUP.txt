@@ -1,0 +1,16 @@
+Wokwi Circuit Simulation Setup
+
+First, create your circuit online using Wokwi https://wokwi.com/, a platform for simulating Arduino, ESP32, and other microcontroller-based projects. After completing your design, follow these steps to run the simulation locally:
+
+Install Visual Studio Code (VS Code) on your PC.
+
+Install the required extensions by following the tutorials in these videos:
+
+
+https://youtu.be/fUlAPdekVO0?si=UJDj0y_UZy29WTTB
+
+https://youtu.be/ECNTyMm_5PE?si=3MK32AwGZOcdEtt2
+
+Open your project folder in VS Code and run the simulation as demonstrated in the videos.
+
+This allows you to test and develop your microcontroller projects offline with a professional workflow.
